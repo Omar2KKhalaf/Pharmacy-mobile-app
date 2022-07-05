@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">1054355566706-vmjmqeu7ckvp58ea14fi7at6knif5qh7.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">1054355566706</string>
+    <string name="google_api_key" translatable="false">AIzaSyCa2qDUL88xg3UOwiRySvxvqUKk_kuxB0Y</string>
+    <string name="google_app_id" translatable="false">1:1054355566706:android:cde784dc4c312d3569d2eb</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCa2qDUL88xg3UOwiRySvxvqUKk_kuxB0Y</string>
+    <string name="google_storage_bucket" translatable="false">pharmacy-management-syst-17e25.appspot.com</string>
+    <string name="project_id" translatable="false">pharmacy-management-syst-17e25</string>
+</resources>
